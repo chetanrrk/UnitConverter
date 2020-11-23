@@ -124,7 +124,7 @@ public class UnitConverterHelper {
     /**
      * Provides algorithm to parse and evaluate the expression.
      * Uses two stacks, one for the operators and another for operands.
-     * Once any operator is popped, two operands are popped from the stack and result put on the operands stack.
+     * Once any operator is popped, two operands are popped from the stack and result put on the operand's stack.
      * The last element on the operand stack is the final result that is eventually popped.
      * 
      * @return Multiplicative factor to be returned

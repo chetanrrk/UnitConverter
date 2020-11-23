@@ -70,7 +70,7 @@ public class HomeControllerTest extends WithApplication {
 	public void testException() {
 		Result result = getResponse("degree/min)");
 		assertEquals(contentAsString(result), 
-				"please recheck and fix your parentheses!");
+				"Please recheck and fix your parentheses!");
 	}
     
 }

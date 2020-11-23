@@ -1,7 +1,7 @@
 FROM anapsix/alpine-java:8_jdk
 LABEL maintainer="chetanrrk@gmail.com"
 
-ARG APPLICATION_SECRET="converter"
+ARG APPLICATION_SECRET="converterapp"
 ENV APPLICATION_SECRET=${APPLICATION_SECRET}
 
 # sbt

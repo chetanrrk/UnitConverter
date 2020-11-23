@@ -5,9 +5,9 @@ This application uses the play framework to convert a user given units into SI u
 
 The endpoint is defined under conf/routes. 
 
-The backend codes are at app/controllers
+The backend codes are at app/controllers. The unit input are checked first to make sure parenthesis and operators are properly defined. The units are also checked while parsing. If any units not in the input provided are given, 'IllegalArgumentException' is raised and exact message relayed from the application. 
 
-The test codes are at tests/controllers
+The test codes are at tests/controllers. Implementation for return status, return type in json, unit string checkers, and application return containing both string and double with desired precision are tested. 
 
 
 ## Run the application on a command line

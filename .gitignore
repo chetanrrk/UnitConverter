@@ -1,0 +1,5 @@
+*.DS_Store
+*.g8
+*.settings
+.classpath
+.project

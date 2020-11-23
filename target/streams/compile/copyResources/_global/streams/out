@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/samikshyaadhikari/Documents/my_app/unit_converter/conf/logback.xml,/Users/samikshyaadhikari/Documents/my_app/unit_converter/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/samikshyaadhikari/Documents/my_app/unit_converter/conf/dependencies.yml,/Users/samikshyaadhikari/Documents/my_app/unit_converter/target/scala-2.13/classes/dependencies.yml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/samikshyaadhikari/Documents/my_app/unit_converter/conf/application.conf,/Users/samikshyaadhikari/Documents/my_app/unit_converter/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/samikshyaadhikari/Documents/my_app/unit_converter/conf/routes,/Users/samikshyaadhikari/Documents/my_app/unit_converter/target/scala-2.13/classes/routes)[0m

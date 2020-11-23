@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: twirl-api
+Implementation-Version: 1.5.0
+Specification-Vendor: com.typesafe.play
+Specification-Title: twirl-api
+Implementation-Vendor-Id: com.typesafe.play
+Specification-Version: 1.5.0
+Implementation-URL: https://github.com/playframework/twirl
+Implementation-Vendor: com.typesafe.play
+

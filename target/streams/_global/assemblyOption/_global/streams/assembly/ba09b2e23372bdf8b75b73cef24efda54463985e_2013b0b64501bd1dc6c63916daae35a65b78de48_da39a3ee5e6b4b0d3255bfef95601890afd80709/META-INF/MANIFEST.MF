@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: akka.protobuf.v3
+Bnd-LastModified: 1594883695257
+Bundle-Description: Akka Protobuf V3 is a shaded version of the protob
+ uf runtime. Original POM: https://github.com/protocolbuffers/protobuf
+ /blob/v3.9.0/java/pom.xml
+Bundle-DocURL: https://doc.akka.io/api/akka/2.6.8
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.html;descr
+ iption=Apache-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: akka-protobuf-v3
+Bundle-SymbolicName: com.typesafe.akka.protobuf.v3
+Bundle-Vendor: Lightbend Inc.
+Bundle-Version: 2.6.8
+Created-By: 11.0.6 (AdoptOpenJDK)
+Export-Package: akka.protobufv3.internal;version="2.6.8",akka.protobuf
+ v3.internal.compiler;uses:="akka.protobufv3.internal";version="2.6.8"
+Implementation-Title: akka-protobuf-v3
+Implementation-URL: https://akka.io/
+Implementation-Vendor: Lightbend Inc.
+Implementation-Vendor-Id: com.typesafe.akka
+Implementation-Version: 2.6.8
+Import-Package: akka.protobufv3.internal
+Private-Package: google.protobuf.compiler,google.protobuf
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version>=1.8))
+ "
+Specification-Title: akka-protobuf-v3
+Specification-Vendor: Lightbend Inc.
+Specification-Version: 2.6.8
+Tool: Bnd-4.0.0.201805111645

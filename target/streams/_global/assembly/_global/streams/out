@@ -1,0 +1,209 @@
+[0m[[0m[0minfo[0m] [0m[0mIncluding: classmate-1.3.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: j2objc-annotations-1.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-databind-2.10.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-java_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: akka-protobuf-v3_2.13-2.6.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: akka-stream_2.13-2.6.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: error_prone_annotations-2.3.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jakarta.activation-api-1.2.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: akka-actor_2.13-2.6.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: reactive-streams-1.0.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-exceptions-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-module-parameter-names-2.10.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: build-link-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: scala-reflect-2.13.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jboss-logging-3.3.2.Final.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: javax.inject-1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: scala-xml_2.13-1.2.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-module-scala_2.13-2.10.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: config-1.4.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: akka-slf4j_2.13-2.6.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jakarta.validation-api-2.0.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jjwt-0.9.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-module-paranamer-2.10.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: scala-library-2.13.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: logback-classic-1.2.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-guice_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: akka-parsing_2.13-10.1.12.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jul-to-slf4j-1.7.30.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-akka-http-server_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: guice-assistedinject-4.2.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-json_2.13-2.8.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: spring-core-5.2.9.RELEASE.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jakarta.xml.bind-api-2.3.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: spring-context-5.2.9.RELEASE.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-java-forms_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: logback-core-1.2.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: akka-serialization-jackson_2.13-2.6.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: ssl-config-core_2.13-0.4.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: guice-4.2.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-logback_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-datatype-jsr310-2.10.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: scala-java8-compat_2.13-0.9.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-server_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jsr305-3.0.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: slf4j-api-1.7.30.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: joda-time-2.10.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: spring-beans-5.2.9.RELEASE.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-dataformat-cbor-2.10.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: akka-actor-typed_2.13-2.6.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: twirl-api_2.13-1.5.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: filters-helpers_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jcl-over-slf4j-1.7.30.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: hibernate-validator-6.1.5.Final.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: typetools-0.5.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: checker-qual-2.10.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-datatype-jdk8-2.10.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: failureaccess-1.0.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-streams_2.13-2.8.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: guava-28.2-jre.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: akka-http-core_2.13-10.1.12.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-core-2.10.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: scala-parser-combinators_2.13-1.1.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: aopalliance-1.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jakarta.transaction-api-1.3.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: play-functional_2.13-2.8.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: lz4-java-1.7.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: paranamer-2.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding: jackson-annotations-2.10.4.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'NOTICE' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/NOTICE.txt' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/license.txt' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/notice.txt' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/NOTICE' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/NOTICE.md' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/LICENSE.md' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/LICENSE.txt' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/LICENSE' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'LICENSE' with strategy 'rename'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/DEPENDENCIES' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/INDEX.LIST' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/cglib/cglib/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/cglib/cglib/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/ch.qos.logback/logback-classic/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/ch.qos.logback/logback-classic/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/ch.qos.logback/logback-core/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/ch.qos.logback/logback-core/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.module/jackson-module-parameter-names/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.module/jackson-module-parameter-names/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.module/jackson-module-paranamer/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.module/jackson-module-paranamer/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml/classmate/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml/classmate/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.code.findbugs/jsr305/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.code.findbugs/jsr305/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.errorprone/error_prone_annotations/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.errorprone/error_prone_annotations/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.guava/failureaccess/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.guava/failureaccess/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.guava/guava/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.guava/guava/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.guava/listenablefuture/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.guava/listenablefuture/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.j2objc/j2objc-annotations/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.google.j2objc/j2objc-annotations/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.thoughtworks.paranamer/paranamer/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.thoughtworks.paranamer/paranamer/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/io.jsonwebtoken/jjwt/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/io.jsonwebtoken/jjwt/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/jakarta.activation/jakarta.activation-api/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/jakarta.activation/jakarta.activation-api/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/jakarta.transaction/jakarta.transaction-api/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/jakarta.transaction/jakarta.transaction-api/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/jakarta.validation/jakarta.validation-api/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/jakarta.validation/jakarta.validation-api/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/jakarta.xml.bind/jakarta.xml.bind-api/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/jakarta.xml.bind/jakarta.xml.bind-api/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/joda-time/joda-time/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/joda-time/joda-time/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/net.jodah/typetools/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/net.jodah/typetools/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.hibernate.validator/hibernate-validator/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.hibernate.validator/hibernate-validator/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.jboss.logging/jboss-logging/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.jboss.logging/jboss-logging/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/jcl-over-slf4j/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/jcl-over-slf4j/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/jul-to-slf4j/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/jul-to-slf4j/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/services/com.fasterxml.jackson.core.JsonFactory' with strategy 'filterDistinctLines'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/services/com.fasterxml.jackson.databind.Module' with strategy 'filterDistinctLines'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/spring.handlers' with strategy 'filterDistinctLines'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/spring.schemas' with strategy 'filterDistinctLines'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/spring.tooling' with strategy 'filterDistinctLines'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'module-info.class' with strategy 'deduplicate'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'play/reference-overrides.conf' with strategy 'deduplicate'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'reference.conf' with strategy 'concat'[0m
+[0m[[0m[31merror[0m] [0m[0m2 errors were encountered during merge[0m
+[0m[[0m[31merror[0m] [0m[0mjava.lang.RuntimeException: deduplicate: different file contents found in the following:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.10.4/jackson-module-paranamer-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.10.4/jackson-core-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.10.4/jackson-datatype-jsr310-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.10.4/jackson-datatype-jdk8-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.10.4/jackson-dataformat-cbor-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.10.4/jackson-annotations-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.10.4/jackson-databind-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.10.4/jackson-module-parameter-names-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0mdeduplicate: different file contents found in the following:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.5/play_2.13-2.8.5.jar:play/reference-overrides.conf[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-akka-http-server_2.13/2.8.5/play-akka-http-server_2.13-2.8.5.jar:play/reference-overrides.conf[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.applyStrategies(Assembly.scala:142)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.x$1$lzycompute$1(Assembly.scala:26)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.x$1$1(Assembly.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.stratMapping$lzycompute$1(Assembly.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.stratMapping$1(Assembly.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.inputs$lzycompute$1(Assembly.scala:68)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.inputs$1(Assembly.scala:58)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.apply(Assembly.scala:85)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbtassembly.Assembly$.$anonfun$assemblyTask$1(Assembly.scala:249)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Function1.$anonfun$compose$1(Function1.scala:49)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:62)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$4.work(Transform.scala:67)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$2(Execute.scala:281)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:19)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.work(Execute.scala:290)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$1(Execute.scala:281)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:178)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.CompletionService$$anon$2.call(CompletionService.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.FutureTask.run(FutureTask.java:266)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.FutureTask.run(FutureTask.java:266)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.lang.Thread.run(Thread.java:748)[0m
+[0m[[0m[31merror[0m] [0m[0m([31massembly[0m) deduplicate: different file contents found in the following:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.10.4/jackson-module-paranamer-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.10.4/jackson-core-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.10.4/jackson-datatype-jsr310-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.10.4/jackson-datatype-jdk8-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.10.4/jackson-dataformat-cbor-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.10.4/jackson-annotations-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.10.4/jackson-databind-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.10.4/jackson-module-parameter-names-2.10.4.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:module-info.class[0m
+[0m[[0m[31merror[0m] [0m[0mdeduplicate: different file contents found in the following:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.5/play_2.13-2.8.5.jar:play/reference-overrides.conf[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samikshyaadhikari/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-akka-http-server_2.13/2.8.5/play-akka-http-server_2.13-2.8.5.jar:play/reference-overrides.conf[0m

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.0
+Built-By: epmjohnston
+Build-Jdk: 1.8.0_181-google-v7
+Automatic-Module-Name: com.google.errorprone.annotations
+

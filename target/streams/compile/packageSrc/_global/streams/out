@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/samikshyaadhikari/Documents/my_app/unit_converter/target/scala-2.13/unit-converter_2.13-1.0.0-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/conf/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dependencies.yml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/conf/dependencies.yml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/UnitConverterHelper.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/app/controllers/UnitConverterHelper.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/UnitRecords.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/app/controllers/UnitRecords.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/UnitConverter.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/app/controllers/UnitConverter.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/bk/UnitsRecord.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/app/controllers/bk/UnitsRecord.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/bk/ConvertUnitsHelper.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/app/controllers/bk/ConvertUnitsHelper.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/bk/ConvertUnits.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samikshyaadhikari/Documents/my_app/unit_converter/app/controllers/bk/ConvertUnits.java[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

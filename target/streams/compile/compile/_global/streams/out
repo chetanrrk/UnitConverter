@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/chetanrupakheti/Documents/tutorials/javaexamples/unit_converter/app/controllers/UnitConverter.java:26:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable unitStringInSI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.UnitConverterHelper[0m
+[0m[[0m[31merror[0m] [0m[0mUnitConverterHelper.unitStringInSI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/chetanrupakheti/Documents/tutorials/javaexamples/unit_converter/app/controllers/UnitConverter.java:28:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable unitStringInSI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.UnitConverterHelper[0m
+[0m[[0m[31merror[0m] [0m[0mUnitConverterHelper.unitStringInSI[0m

@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: akka.serialization.jackson
+Bundle-Description: Akka is a toolkit for building highly concurrent, 
+ distributed, and resilient message-driven applications for Java and S
+ cala.
+Bundle-DocURL: https://doc.akka.io/api/akka/2.6.8
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.html;descr
+ iption=Apache-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: akka-serialization-jackson
+Bundle-SymbolicName: com.typesafe.akka.serialization.jackson
+Bundle-Vendor: Lightbend Inc.
+Bundle-Version: 2.6.8
+Export-Package: akka.serialization.jackson;uses:="akka.actor,akka.acto
+ r.setup,akka.actor.typed,akka.event,akka.serialization,akka.stream,co
+ m.fasterxml.jackson.core,com.fasterxml.jackson.core.json,com.fasterxm
+ l.jackson.databind,com.fasterxml.jackson.databind.deser,com.fasterxml
+ .jackson.databind.deser.std,com.fasterxml.jackson.databind.jsontype.i
+ mpl,com.fasterxml.jackson.databind.ser,com.fasterxml.jackson.databind
+ .ser.std,com.fasterxml.jackson.databind.type,com.typesafe.config,scal
+ a,scala.collection,scala.collection.immutable,scala.collection.mutabl
+ e,scala.concurrent.duration,scala.reflect,scala.runtime";version="2.6
+ .8"
+Implementation-Title: akka-serialization-jackson
+Implementation-URL: https://akka.io/
+Implementation-Vendor-Id: com.typesafe.akka
+Implementation-Vendor: Lightbend Inc.
+Implementation-Version: 2.6.8
+Import-Package: akka;version="[2.6,2.7)",akka.actor;version="[2.6,2.7)
+ ",akka.actor.setup;version="[2.6,2.7)",akka.actor.typed;version="[2.6
+ ,2.7)",akka.actor.typed.scaladsl.adapter;version="[2.6,2.7)",akka.eve
+ nt;version="[2.6,2.7)",akka.serialization;version="[2.6,2.7)",akka.st
+ ream;version="[2.6,2.7)",akka.util;version="[2.6,2.7)",akka.util.ccom
+ pat;version="[2.6,2.7)",com.typesafe.config;version="[1.4.0,1.5.0)",s
+ cala;version="[2.13,2.14)",scala.collection;version="[2.13,2.14)",sca
+ la.collection.convert;version="[2.13,2.14)",scala.collection.immutabl
+ e;version="[2.13,2.14)",scala.collection.mutable;version="[2.13,2.14)
+ ",scala.concurrent.duration;version="[2.13,2.14)",scala.reflect;versi
+ on="[2.13,2.14)",scala.runtime;version="[2.13,2.14)",scala.util;versi
+ on="[2.13,2.14)",scala.util.control;version="[2.13,2.14)",com.fasterx
+ ml.jackson.annotation;version="[2.10,3)",com.fasterxml.jackson.core;v
+ ersion="[2.10,3)",com.fasterxml.jackson.core.json;version="[2.10,3)",
+ com.fasterxml.jackson.core.util;version="[2.10,3)",com.fasterxml.jack
+ son.databind;version="[2.10,3)",com.fasterxml.jackson.databind.deser;
+ version="[2.10,3)",com.fasterxml.jackson.databind.deser.std;version="
+ [2.10,3)",com.fasterxml.jackson.databind.json;version="[2.10,3)",com.
+ fasterxml.jackson.databind.jsontype.impl;version="[2.10,3)",com.faste
+ rxml.jackson.databind.ser;version="[2.10,3)",com.fasterxml.jackson.da
+ tabind.ser.std;version="[2.10,3)",com.fasterxml.jackson.databind.type
+ ;version="[2.10,3)",com.fasterxml.jackson.dataformat.cbor;version="[2
+ .10,3)",com.fasterxml.jackson.datatype.jsr310.deser;version="[2.10,3)
+ ",com.fasterxml.jackson.datatype.jsr310.ser;version="[2.10,3)",com.fa
+ sterxml.jackson.module.paramnames;version="[2.10,3)",net.jpountz.lz4
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version>=1.8))
+ "
+Specification-Title: akka-serialization-jackson
+Specification-Vendor: Lightbend Inc.
+Specification-Version: 2.6.8
+Tool: Bnd-4.0.0.201805111645
+

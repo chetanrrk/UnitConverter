@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Export-Package: io.jsonwebtoken;version="0.9.1",io.jsonwebtoken.lang;v
+ ersion="0.9.1"
+Implementation-Title: JSON Web Token support for the JVM
+Implementation-Version: 0.9.1
+Built-By: lhazlewood
+Tool: Bnd-3.3.0.201609221906
+Bundle-Name: JSON Web Token support for the JVM
+Created-By: Apache Maven Bundle Plugin
+Implementation-URL: https://github.com/jwtk/jjwt
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Implementation-Vendor-Id: io.jsonwebtoken
+Bundle-Version: 0.9.1
+Build-Jdk: 1.7.0_80
+Bnd-LastModified: 1530831044984
+Bundle-ManifestVersion: 2
+Specification-Title: JSON Web Token support for the JVM
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Bundle-Description: Sonatype helps open source projects to set up Mave
+ n repositories on https://oss.sonatype.org/
+Bundle-SymbolicName: io.jsonwebtoken.jjwt
+Import-Package: android.util;resolution:=optional,org.bouncycastle.jce
+ ;resolution:=optional;version="[1.56,2)",org.bouncycastle.jce.spec;re
+ solution:=optional;version="[1.56,2)",com.fasterxml.jackson.core;vers
+ ion="[2.9,3)",com.fasterxml.jackson.databind;version="[2.9,3)",io.jso
+ nwebtoken.lang,javax.crypto,javax.crypto.spec,javax.xml.bind
+Specification-Version: 0.9.1
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Play-Java-Forms
+Implementation-Version: 2.8.5
+Specification-Vendor: com.typesafe.play
+Specification-Title: Play-Java-Forms
+Implementation-Vendor-Id: com.typesafe.play
+Specification-Version: 2.8.5
+Implementation-URL: https://playframework.com
+Implementation-Vendor: com.typesafe.play
+

@@ -1,0 +1,11 @@
+2020-11-22 20:56:14,074 [WARN] from play.api.http.HttpConfiguration in main - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-11-22 20:56:19,544 [INFO] from play.api.Play in main - Application started (Prod) (no global state)
+2020-11-22 20:56:23,392 [INFO] from play.core.server.AkkaHttpServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2020-11-22 20:56:27,999 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in Thread-5 - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 2147508000 milliseconds timeout
+2020-11-22 20:56:28,003 [INFO] from play.core.server.AkkaHttpServer in Thread-5 - Stopping Akka HTTP server...
+2020-11-22 20:56:28,034 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-3 - Terminating server binding for /0:0:0:0:0:0:0:0:9000
+2020-11-22 20:56:28,150 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-6 - Running provided shutdown stop hooks

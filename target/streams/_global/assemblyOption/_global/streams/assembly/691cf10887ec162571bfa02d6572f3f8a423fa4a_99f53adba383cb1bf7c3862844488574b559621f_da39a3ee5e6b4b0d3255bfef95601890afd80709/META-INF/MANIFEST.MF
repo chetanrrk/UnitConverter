@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven Bundle Plugin
+Built-By: default
+Build-Jdk: 11.0.4
+Extension-Name: jakarta.activation
+Implementation-Title: jakarta.activation.jakarta.activation-api
+Implementation-Vendor: Eclipse Foundation
+Implementation-Vendor-Id: com.sun
+Implementation-Version: 1.2.2
+Specification-Title: jakarta.activation.jakarta.activation-api
+Specification-Vendor: Eclipse Foundation
+Specification-Version: 1.2
+Bnd-LastModified: 1582223848638
+Bundle-Description: Jakarta Activation API jar
+Bundle-DocURL: https://www.eclipse.org
+Bundle-License: http://www.eclipse.org/org/documents/edl-v10.php
+Bundle-ManifestVersion: 2
+Bundle-Name: Jakarta Activation API jar
+Bundle-SymbolicName: jakarta.activation-api
+Bundle-Vendor: Eclipse Foundation
+Bundle-Version: 1.2.2
+DynamicImport-Package: *
+Export-Package: javax.activation;version="1.2"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=9.0))"
+Tool: Bnd-3.5.0.201709291849
+

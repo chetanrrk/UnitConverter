@@ -1,0 +1,8 @@
+clear
+ls
+?units=(degree/min)
+units=(degree/min)
+units=(degree/min);
+units=(degree/mi)
+units
+exit

@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: sameb
+Build-Jdk: 1.8.0_181-google-v7
+Automatic-Module-Name: com.google.guice.extensions.assistedinject
+Bundle-Copyright: Copyright (C) 2006 Google Inc.
+Bundle-Description: Guice is a lightweight dependency injection framew
+ ork for Java 6 and above
+Bundle-DocURL: https://github.com/google/guice
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: guice-assistedinject
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-SymbolicName: com.google.inject.assistedinject
+Bundle-Vendor: Google, Inc.
+Bundle-Version: 4.2.3
+Export-Package: com.google.inject.assistedinject;version="1.4"
+Fragment-Host: com.google.inject
+Import-Package: com.google.common.base;version="[27.1,28)",com.google.
+ common.collect;version="[27.1,28)",javax.inject
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+

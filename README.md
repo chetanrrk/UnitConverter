@@ -16,10 +16,12 @@ Faster way to run
 ./sbt dist
 unzip ./target/universal/unit-converter-1.0.0.zip
 ./target/universal/unit-converter-1.0.0/bin/unit-converter
+http://localhost:9000/units/si?units=(degree/min)
 
 Slower
 ./sbt build
 ./sbt run
+http://localhost:9000/units/si?units=(degree/min)
 ```
 
 ## Test the application
@@ -38,9 +40,5 @@ docker build -t citrine/unit-converter:1.0.0 .
 
 ```
 docker run -p 9000:9000 citrine/unit-converter:1.0.0
-```
-
-## Local Run
-```
 http://localhost:9000/units/si?units=(degree/min)
 ```

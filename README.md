@@ -12,6 +12,13 @@ The test codes are at tests/controllers. Implementation for return status, retur
 
 ## Run the application on a command line
 ```
+Faster way to run
+./sbt dist
+unzip ./target/universal/unit-converter-1.0.0.zip
+./target/universal/unit-converter-1.0.0/bin/unit-converter
+
+Slower
+./sbt build
 ./sbt run
 ```
 

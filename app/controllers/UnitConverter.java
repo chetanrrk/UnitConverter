@@ -23,7 +23,6 @@ public class UnitConverter extends Controller {
         	UnitConverterHelper converter = new UnitConverterHelper(units);
         	converter.checkParentheses();
         	converter.checkOperators();
-        	converter.unitStringInSI = new StringBuffer();
             double num = converter.evaluate();
             String resultStr = converter.unitStringInSI.toString();
             
